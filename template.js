@@ -1,4 +1,6 @@
-const input = []
+const input = [];
 
-const solution = () => {}
-console.log(solution())
+const solution = () => {};
+console.time();
+console.log(solution());
+console.timeEnd();
